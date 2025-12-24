@@ -1,5 +1,7 @@
 # BuyMed - Product Search & Order
 
+🌐 **Live Demo**: [https://buymed-screening-test-7myi.vercel.app/](https://buymed-screening-test-7myi.vercel.app/)
+
 A responsive single-page application (SPA) for searching and ordering products. Built with Next.js, TypeScript, Tailwind CSS, and Shadcn UI.
 
 ## 🎯 Features
@@ -384,14 +386,6 @@ const productsData: Product[] = [
 - [ ] Implement pagination for large product lists
 - [ ] Add dark mode support
 
-## 📝 License
-
-This project is private and for demonstration purposes.
-
 ## 👤 Author
 
-Built as part of a coding assessment/task.
-
----
-
-**Last Updated**: 2024
+**Nguyen Van Vu Duc**
